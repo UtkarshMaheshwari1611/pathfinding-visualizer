@@ -2,7 +2,9 @@
 
 int main()
 {
-    std::cout << "Pathfinding Visualizer\n";
+    std::cout << "=================================\n";
+    std::cout << "    PATHFINDING VISUALIZER\n";
+    std::cout << "=================================\n";
 
     return 0;
 }
